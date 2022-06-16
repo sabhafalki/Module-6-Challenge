@@ -43,8 +43,8 @@ Using Google Directions API,a travel route was created to display positional coo
 
 
 ### Further Analysis ###
-1. Add Languages assistant in the app to help the customers to understand.
-2. Add Local public transportation information.
+1. Adding Languages assistant in the app to help the customers to understand.
+2. Adding Local public transportation information.
 3. Nearly Car/vehicle rental loctions.
 4. Incloud Tour guide traveller. 
 <br>
