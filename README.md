@@ -1,4 +1,4 @@
-# Module_6_Challenge World_Weather_Analysis
+# Module 6 Challenge  World_Weather_Analysis
 # Overview of Project #
 The purpose of this Project is to analyze and visualize Plan My Trip app and improve the app, to help the clients to have much less stressful journey by togethering a cohesive travel itinerary. Adding certian features that may help travelers to search such as weather description to identify potential travel destinations and nearby hotels. The data sample consisted of four cities to create a travel itinerary by using the Google Maps Directions API and creating a travel route between the four cities as well as a marker layer map.
 
