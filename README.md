@@ -47,4 +47,8 @@ Using Google Directions API,a travel route was created to display positional coo
 2. Adding Local public transportation information.
 3. Nearly Car/vehicle rental loctions.
 4. Incloud Tour guide traveller. 
+5. Weather Forecasting
+6. hotels review
+7. Attractive Offers
+8. Get Real View Pictures and Videos of Destination
 <br>
