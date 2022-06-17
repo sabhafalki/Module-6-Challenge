@@ -24,32 +24,33 @@ The Weather Data was retrieved based on a set of 2,000 random latitudes and long
 ## Customer Travel Destinations Map ##
 Using customer weather preferences, potential travel destinations were identified along with nearby hotels. The destinations are identified with a marker layer map with pop-up markers.
 
-![Total_Drivers](/analysis1/Total_drivers.png)
+![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map.png)
+![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map1.png)
 <br><br>
  
 ## Travel Itinerary Map ##
 Using Google Directions API,a travel route was created to display positional coordinate between four cities chosen by the customer. A marker layer map with pop-up was added to provide customized information to the user describing the name of the city, country, hotel and current weather description.
 
-![Total_Fares](/analysis1/total_amount_of_fares.png)
+![Total_Fares](/Vacation_Itinerary/WeatherPy_vacation_map.png)
+![Total_Fares](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 <br><br>
 
 ## Conclusion ##
 ### Summary ###
-From our analysis, we were able to conclude the following:
-1. Adding Weather Data to the 
+From our analysis, we were able to conclude that the following additional features will improve the App Search:
+1. By adding Weather Data, clients can easily get all the details related to the weather directly, allowing them to plan throughly. 
+2. By adding a Destination and Hotel Search, clients can esaily plan their destinations. 
+3. By creating a Route, clients can easily plan their journey and their stops.  
 
-
-
-### Improvements to App ###
-
-
-### Further Analysis ###
-1. Adding Languages assistant in the app to help the customers to understand.
-2. Adding Local public transportation information.
-3. Nearly Car/vehicle rental loctions.
-4. Incloud Tour guide traveller. 
-5. Weather Forecasting
-6. hotels review
-7. Attractive Offers
-8. Get Real View Pictures and Videos of Destination
+### Additional Features ###
+The App can be further improvied by introducing additional features like:
+1. Making the App support other languages
+2. Adding google translator to the app
+3. Adding Local public transportation information
+5. Adding Nearly Car/Vehicle rental loctions
+6. Include a Virtual Tour guide traveller
+7. Include a Weather Forecasting feature
+8. Include a hotels review feature
+9. By launching offers based on clients preferences
+10. Get Real View Pictures and Videos of Destination
 <br>
