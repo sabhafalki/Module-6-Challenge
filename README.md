@@ -18,7 +18,7 @@ Library Modules: Pandas, Numpy, Scipy.stats,CitiPy, SciPy, Python Requests, APIs
 ## Weather Data ##
 The Weather Data was retrieved based on a set of 2,000 random latitudes and longitudes. Using the Open Weather map and retrieving the information with API, the cities weather data was collected with the current weather description and saved in a new DataFrame.
 
-![Total_rides](/analysis1/total_rides.png)
+![Total_rides](/Weather_Database/WeatherDataFrame.png)
 <br><br>
 
 ## Customer Travel Destinations Map ##
